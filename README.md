@@ -1,3 +1,4 @@
 ﻿# lgsoohoo.github.io
 An ideal succotash-stic website. Hello world!
-Trying to undo seems difficult
+
+_Trying to learn git/GitHub and HTML_
