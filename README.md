@@ -1,6 +1,7 @@
-﻿# lgsoohoo.github.io
+﻿# lgsoohoo.github.io 2.0
 An ideal succotash-stic website. Hello world!
 
-_Trying to learn git/GitHub and HTML_
+Using templated.co 's HTML/CSS template called: "resumetype".
+Not sure if the template is still available. Wasn't able to find a link back to it.
 
-test gui version
+Last updated: May 11, 2018
