@@ -1,7 +1,7 @@
 ﻿# lgsoohoo.github.io 2.0
 An ideal succotash-stic website. Hello world!
 
-Using templated.co 's HTML/CSS template called: "resumetype".
-Not sure if the template is still available. Wasn't able to find a link back to it.
+Using templated.co's HTML/CSS template called: "Primitive".
+https://templated.co/primitive
 
-Last updated: May 11, 2018
+Last updated: May 12, 2018
