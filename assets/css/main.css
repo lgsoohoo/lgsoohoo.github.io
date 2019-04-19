@@ -3291,7 +3291,10 @@
 	#cta {
 		background: #e89980;
 		color: #f9e6df;
-		padding: 3.5em 0 4em 0;
+		/*Lucas Modified: (3.5em 0 4em 0;);*/
+		padding: 1em 0 0.5em 0;
+		/*Lucas Added*/
+		margin-bottom: 1em;
 		text-align: center;
 	}
 
@@ -3878,3 +3881,32 @@
 			}
 
 	}
+
+	/*Im using ID's to edit the styles for specific items here.
+	A couple of other things have been edited in the original,
+	but I added a comment stating where I changed things*/
+
+#nameTitle{
+	/*The 'Lucas Soohoo' title section*/
+
+	background-color: rgba(255,255,255,0.5);
+	padding-bottom: 25px;
+	padding-top: 25px;
+
+	border-radius: 15px;
+	border-color: lightgray;
+	border-width: 2px;
+	border-style: solid;
+
+	margin-right:30%;
+	margin-left: 30%;
+}
+
+#nameTitle > p {
+	font-weight: 300;
+	
+}
+
+#cta > h2{
+	font-weight: bold;
+}
